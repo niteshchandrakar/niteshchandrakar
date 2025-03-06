@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshchandrakar&theme=matrix" alt="niteshchandrakar" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack web Developing at Masai School**
+- 🌱 I have 14 months of experience as a Software Engineer at BookingJini, working with React, Next.js, Node.js, and PostgreSQL to build scalable web applications**
 - 💬 Ask me about **Html, CSS, JavaScript, React,Redux,TypeScript**
 - 📫 How to reach me **niteshchandrakar2@gmail.com**
 - 👨‍💻 All of my projects are available at **https://niteshchandrakar.github.io/**
